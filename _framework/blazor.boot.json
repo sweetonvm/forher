@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ForHer",
   "resources": {
-    "hash": "sha256-fvDzOeqlBfQ1bwA5o3v5D+eP3w1rij9Tjsy03U8foKU=",
+    "hash": "sha256-h3tFdhDb7S6yeRcE4Yu5eytTInXVeMGr1uqwZAFyVr4=",
     "jsModuleNative": {
       "dotnet.native.8.0.22.mirauoebk1.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "ForHer.wasm": "sha256-YM1IIQfRpGTy3q38xkz49HzE1n+POgV8ZE0c766htts=",
+      "ForHer.wasm": "sha256-Rw2b68yV5aCmTGQYFYdxnXggvwJARiH5eQHTgCqRWFQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-g4BWvq4LGxMWANdjN5LTW3FD0zmuA9wqqx4UAWVQjS8=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-uGzYqUgb0bj7JvIXpwtooS9Re1gkiDtrHrCn5vcuIP4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-1CUpmBCLwwQopzKgKvQVya22xd8uhaRhvSLYqPqmABA=",
